@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+
+.header{
+    text-align: center;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.menu{
+    text-align: center;
+    color: darkblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
